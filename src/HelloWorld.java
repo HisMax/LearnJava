@@ -1,7 +1,7 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World");
-        //è¾“å‡ºHello Worldï¼Œæœ€ç®€å•äº†
-        //ç…§ç€æ•²ä¸€éå°±å¥½
+        //Êä³öHello World£¬×î¼òµ¥ÁË
+        //ÕÕ×ÅÇÃÒ»±é¾ÍºÃ
     }
 }
