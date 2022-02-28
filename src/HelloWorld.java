@@ -1,7 +1,6 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World");
-        //输出Hello World，最简单了
-        //照着敲一遍就好
+        //鍦ㄥ睆骞曚笂鎵撳嵃Hello World
     }
 }
